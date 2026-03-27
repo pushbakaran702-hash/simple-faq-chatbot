@@ -1,0 +1,5 @@
+{
+  "name": "Moon Chatbot",
+  "description": "A ChatGPT-inspired FAQ chatbot powered by Gemini, featuring streaming responses and chat history.",
+  "requestFramePermissions": []
+}
